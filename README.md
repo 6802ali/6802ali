@@ -29,10 +29,6 @@
 | **Workon** *(in progress)* | HR platform for employee records, payroll, attendance, leave and recruitment | NestJS · TypeScript · PostgreSQL · Jest |
 | [**Foodie App**](https://github.com/6802ali/Foodie-App) | Restaurant app with ordering, table reservations, reviews, real-time chat and an admin dashboard | Flutter · Riverpod · Firebase |
 
-### 📈 Contribution activity
-
-<p align="center"><img src="assets/activity-graph.svg" alt="Ali Ismail's contribution graph for the last 31 days" width="100%"/></p>
-
 ### 🛠️ Tech stack
 
 **Backend**<br/>
