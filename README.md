@@ -27,7 +27,7 @@
 | **Nimble** *(private, client work)* | E-commerce platform backend with a self-serve portal | Django · DRF · Celery · Redis · PostgreSQL |
 | **Carvinu** *(private, client work)* | Online car-finder marketplace with an admin dashboard and CMS | Django · DRF · Wagtail · Celery · Docker · AWS ECR |
 | **Workon** *(in progress)* | HR platform for employee records, payroll, attendance, leave and recruitment | NestJS · TypeScript · PostgreSQL · Jest |
-| [**Foodie App**](https://github.com/6802ali/Foodie-App) | Food app with Google sign-in, image uploads and in-app chat | Flutter · Riverpod · Firebase |
+| [**Foodie App**](https://github.com/6802ali/Foodie-App) | Restaurant app with ordering, table reservations, reviews, real-time chat and an admin dashboard | Flutter · Riverpod · Firebase |
 | [**OrderKing**](https://github.com/6802ali/OrderKing-BE) | Customer-management API with JWT auth, search, validation and pagination | Java · Spring Boot |
 | [**Givrex**](https://github.com/6802ali/givrex_preview) · [live ↗](https://givrex-preview.vercel.app) | Landing and product pages for a client | HTML · JavaScript · Vercel |
 
